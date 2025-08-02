@@ -1,34 +1,31 @@
 # Hi, I'm Alhassan 👋
 
-I'm the founder of [Lorica Cybersecurity](https://loricacyber.com), where I’m building infrastructure for secure, privacy-preserving AI — combining modern AI model development with encrypted computation and secure deployment workflows.
+I'm the founder of [Lorica Cybersecurity](https://loricacyber.com), where I’m building infrastructure for secure, privacy-preserving AI — combining modern model development with encrypted computation and scalable deployment workflows.
 
-🔐 I’m focused on:
+🔐 I focus on:
 
 - Training and deploying foundation models
 - Confidential computing, FHE, and other privacy-enhancing technologies (PETs)
-- Building secure, scalable AI infrastructure
+- Secure, scalable AI infrastructure design
 
 ---
 
 ### 🚧 Currently in Build Mode
 
-I'm early in my open-source journey and laying the groundwork for several upcoming projects, including:
+I'm early in my open-source journey and currently laying the groundwork for several upcoming projects, including:
 
 - Secure LLM training and inference pipelines using confidential computing (e.g., AMD SEV-SNP, Azure NCCadsH100v5)
 - Infrastructure-as-code (Terraform + Vault + Kubernetes) for privacy-first AI deployments
 - Experimental benchmarks evaluating performance tradeoffs of FHE, TEE, and other PETs in real-world AI workflows
 
-I’ll begin publishing code and write-ups here as components stabilize.
-
-If you’re working in this space or thinking about collaboration, feel free to reach out.
+I’ll begin publishing code and write-ups here as components mature.
 
 ---
 
-### 📚 What I'm Deeply Focused On
+### 📚 Building My Expertise In
 
-- Mastering the foundations of deep learning and model training (PyTorch, optimization strategies)
-- Exploring large-scale LLM tooling (DeepSpeed, AXLearn)
-- Building production-grade ML infrastructure (Terraform, Vault, Kubernetes, Azure)
+- Foundation model training using PyTorch and performance-focused optimization
+- Secure AI infrastructure with Terraform, Vault, Kubernetes, and Azure
 
 ---
 
@@ -40,10 +37,22 @@ At Lorica, I’m working to make **secure-by-default AI** practical for real-wor
 
 ---
 
+### 🤝 Let’s Collaborate
+
+I’m actively looking to connect with researchers and engineers working on:
+
+- Encrypted inference
+- Confidential container orchestration
+- Secure LLM training workflows
+
+If that’s you, let’s talk.
+
+---
+
 ### 💬 Ask Me About
 
 - Fully Homomorphic Encryption (FHE) — use cases, architecture, and performance tradeoffs
-- Confidential Computing
+- Confidential Computing — deployment strategies, threat models, and performance implications for AI
 - Designing privacy-preserving AI workflows end to end
 
 ---
@@ -55,6 +64,6 @@ At Lorica, I’m working to make **secure-by-default AI** practical for real-wor
 
 ---
 
-### ⚡ When I'm Not Building
+### ⚡ Outside of Work
 
-You'll find me spending time with family, reading, or watching sci-fi. I also enjoy rowing and volleyball.
+You'll find me spending time with family, reading, or watching sci-fi. I also enjoy swimming, rowing and volleyball.
