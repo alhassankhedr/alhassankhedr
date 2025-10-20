@@ -4,7 +4,6 @@ I'm the founder of [Lorica Cybersecurity](https://loricacyber.com), where I’m 
 
 🔐 I focus on:
 
-- Training and deploying foundation models
 - Confidential computing, FHE, and other privacy-enhancing technologies (PETs)
 - Secure, scalable AI infrastructure design
 
@@ -19,13 +18,6 @@ I'm early in my open-source journey and currently laying the groundwork for seve
 - Experimental benchmarks evaluating performance tradeoffs of FHE, TEE, and other PETs in real-world AI workflows
 
 I’ll begin publishing code and write-ups here as components mature.
-
----
-
-### 📚 Building My Expertise In
-
-- Foundation model training using PyTorch and performance-focused optimization
-- Secure AI infrastructure with Terraform, Vault, Kubernetes, and Azure
 
 ---
 
@@ -59,7 +51,7 @@ If that’s you, let’s talk.
 
 ### 📫 Connect with Me
 
-- Email: **alhassan@loricacyber.com**
+- Email: **alhassan@lorica.ai**
 - LinkedIn: [linkedin.com/in/alhassankhedr](https://www.linkedin.com/in/alhassankhedr)
 
 ---
